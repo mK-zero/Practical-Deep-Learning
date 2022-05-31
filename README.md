@@ -7,7 +7,7 @@ Starting from : May 31, 2022
 
 ## Contents
 
-- <b>Project 1</b> - Chapter 3: Using Numpy
+- <b>Project 1</b> - Chapter 3: Using Numpy(https://github.com/mK-zero/Practical-Deep-Learning/tree/main/1_chapter-3_numpy)
 
 <p align="center">
 Last Updated : May 31, 2022
